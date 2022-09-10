@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @hitendarss27
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning Javascript, DSA, SQL, Node-js 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me hitendarss27@gmail.com
 
 <!---
